@@ -8,6 +8,7 @@ Based on the example in Tingenek's post [MQTT with Processing](https://tingenek.
 
 ## Requirements
 * [WMQTT library from IBM](http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?popup=Y&li_formnum=L-TMAN-5N7JL9&accepted_url=ftp://public.dhe.ibm.com/software/integration/support/supportpacs/individual/ia92.zip) - Copy the file ia92/J2SE/wmqtt.jar to ~/Documents/Processing/libraries/wmqtt/library/
+
 ## TODO
 * Switch to the Eclipse Paho Java libraries
 * Tidy up and refactor code
